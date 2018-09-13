@@ -1,5 +1,4 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Haolin Sun
-=======
-Guoyucheng Zhang
->>>>>>> 240faf9ab8ce73e63cf6e1fdd5721fe60bbb7bed
+name
