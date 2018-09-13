@@ -1,1 +1,42 @@
 my name is Tommy
+[33mcommit 24842b754e63bc6d5e44de0a131050807c5211ae[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Guoyucheng Zhang <gzhan102@uottawa.ca>
+Date:   Wed Sep 12 23:29:21 2018 -0400
+
+    create a repository
+
+[33mcommit ae5f836e6db56fddbf01464a059662b98c16e7a2[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Guoyucheng Zhang <gzhan102@uottawa.ca>
+Date:   Wed Sep 12 23:03:58 2018 -0400
+
+    third commit
+
+[33mcommit 606c41b0b4182471226bc54a2d4f68a8d4093ea8[m
+Author: Guoyucheng Zhang <gzhan102@uottawa.ca>
+Date:   Wed Sep 12 23:00:07 2018 -0400
+
+    second commit
+
+[33mcommit 4bded10a63038258feecc3191017ff74f9ae8efa[m
+Author: Guoyucheng Zhang <gzhan102@uottawa.ca>
+Date:   Wed Sep 12 22:50:57 2018 -0400
+
+    first commit
+
+[33mcommit bb035694ed7efeee339dc394e312dbcbcc379e59[m
+Author: 孙浩林 <sunhaolin@sunhaolins-MacBook-Pro.local>
+Date:   Wed Sep 12 11:50:37 2018 -0400
+
+    team.txt
+
+[33mcommit e40356c06744aa39e87d2274bba87e943c9af2f7[m
+Author: 孙浩林 <sunhaolin@sunhaolins-MacBook-Pro.local>
+Date:   Wed Sep 12 11:46:08 2018 -0400
+
+    createbest.txt
+
+[33mcommit 4cf61d4d900fa2bd3e5b54ccd68c34771800df73[m
+Author: Haolin Sun <43145919+ssun077@users.noreply.github.com>
+Date:   Wed Sep 12 11:33:09 2018 -0400
+
+    Initial commit
